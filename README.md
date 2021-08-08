@@ -8,6 +8,7 @@
 </table>
 
 ## I'm a Developer, and Lazy Person (ofcourse)!
+
 - 🥅 2021 Goals: Contribute more to Open Source projects and build my Kernel platform!
 - ⚡ Hobbies: I love reverse engineering websites and building Custom Kernel!
 
