@@ -7,14 +7,12 @@
   </tr>
 </table>
 
-<!-- [![Website](https://img.shields.io/website?label=swapnilsoni.xyz&style=for-the-badge&url=https://swapnilsoni.xyz)](https://swapnilsoni.xyz) -->
-
 ## I'm a Developer, and Lazy Person(ofcourse)!
 - 🥅 2021 Goals: Contribute more to Open Source projects and build my Kernel platform!
 - ⚡ Hobbies: I love reverse engineering websites and building Custom Kernel!
 ### Connect with me:
-[<img align="left" alt="Ruega" width="22px" src="https://ruega.github.io" />]
-[<img align="left" alt="FyyyyK | Telegram" width="22px" src="https://t.me/FyyyyK" />]
+[<img align="left" alt="Ruega" width="22px" href="https://ruega.github.io" />]
+[<img align="left" alt="FyyyyK | Telegram" width="22px" href="https://t.me/FyyyyK" />]
 
 <br />
 
