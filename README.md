@@ -11,8 +11,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and build my Kernel platform!
 - ⚡ Hobbies: I love reverse engineering websites and building Custom Kernel!
 ### Connect with me:
-[<img align="left" alt="ruega.github.io" width="22px" href="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="FyyyyK | Telegram" width="22px" href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />]
+[<img align="left" alt="ruega.github.io" width="22px" href="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="FyyyyK | Telegram" width="22px" href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
